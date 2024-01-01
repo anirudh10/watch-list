@@ -8,7 +8,7 @@ export default function Home() {
               Welcome to Watch List
           </h1>
           <p className="text-lg md:text-xl text-white mb-6">
-              Your personal space to curate and manage a wishlist of your favorite watches. 
+              Your personal space to curate and manage a wishlist of your favorite watches.
               Sign in to create, view, edit, and delete items from your watchlist.
           </p>
           <div className="bg-gray-800 p-6 rounded-lg shadow-lg">
